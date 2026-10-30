@@ -3,8 +3,8 @@
 Infos and Screenshots for the **Dyson Sphere Program** `SCALE-MALL`.
 
 > This Mall will **SCALE** as you do.
->
-![Overview](pictures/SCALE-Mall Total.jpg)   
+
+![Mall Overview](pictures/SCALE-Mall Total.jpg)   
 
 ## Overview
 
